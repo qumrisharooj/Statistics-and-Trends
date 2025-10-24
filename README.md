@@ -30,34 +30,5 @@ The project demonstrates **statistical moment analysis**, **data visualization**
 
 ---
 
-## 🗂 Project Structure
-Statistics-and-Trends/
-│
-├── stats_trends_globalcity.py # Main Python script
-├── GlobalLandTemperaturesByCity.csv # Input dataset (not uploaded due to size)
-├── outputs/
-│ ├── short_report.txt # Generated summary report
-├── plots/
-│ ├── relational_plot_trend.png
-│ ├── categorical_hist.png
-│ ├── categorical_bar.png
-│ ├── categorical_pie.png
-│ ├── stat_heatmap.png
-│ ├── stat_boxplot.png
-│ ├── stat_violin.png
-│ ├── stat_pairplot.png
-└── README.md # Project documentation
 
 
----
-
-## ⚙️ Installation & Setup
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/qumrisharooj/Statistics-and-Trends.git
-cd Statistics-and-Trends
-
-
-2. Install Required Libraries
-pip install pandas numpy matplotlib seaborn scipy
