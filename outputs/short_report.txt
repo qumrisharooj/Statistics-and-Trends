@@ -1,0 +1,9 @@
+Climate Data Analysis Report
+========================================
+Rows after cleaning: 8599212
+Numeric columns analyzed: AverageTemperature, AverageTemperatureUncertainty
+
+Statistical moments:
+                     variable      mean   variance  skewness  kurtosis_excess
+           AverageTemperature 16.779766 106.575267 -0.900275         0.475617
+AverageTemperatureUncertainty  1.028575   1.276297  3.076299        14.554151
