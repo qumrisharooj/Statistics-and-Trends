@@ -1,6 +1,6 @@
 # Statistics and Trends: Global City Temperature Analysis
 
-## 📘 Overview
+## Overview
 This project analyzes long-term global temperature trends using the **GlobalLandTemperaturesByCity** dataset.  
 It performs statistical computations, data cleaning, and visual exploration to understand temperature variations across time and regions.
 
@@ -8,7 +8,7 @@ The project demonstrates **statistical moment analysis**, **data visualization**
 
 ---
 
-## 🔍 Key Features
+## Key Features
 - **Data Preprocessing**: Cleans missing values, converts dates, and creates time-based columns (Year, Month, Decade).  
 - **Statistical Analysis**: Calculates four statistical moments for numeric variables:
   - Mean  
