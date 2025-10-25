@@ -1,5 +1,5 @@
 """
-stats_trends_globalcity.py (Clean Version – No data saving)
+stats_trends_globalcity.py
 
 Dataset: GlobalLandTemperaturesByCity.csv
 Performs:
